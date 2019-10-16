@@ -1,0 +1,14 @@
+{
+  "name": "ex3docker",
+  "version": "1.0.0",
+  "description": "NodeJS Docker demo",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
